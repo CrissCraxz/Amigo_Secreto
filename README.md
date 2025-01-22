@@ -2,6 +2,8 @@
 
 ¡Bienvenido a la aplicación interactiva de Amigo Secreto! Esta herramienta facilita el proceso de sorteo entre amigos, familiares o compañeros de trabajo de una manera sencilla y divertida.
 
+![Vista previa de aplicación](assets/image.png)
+
 ## 🚀 Características
 
 - **Agregar participantes:** Permite ingresar nombres con validaciones para garantizar entradas válidas.
