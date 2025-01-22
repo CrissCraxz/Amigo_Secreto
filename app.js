@@ -77,3 +77,7 @@ function mostrarResultado(ganador) {
     mensaje.textContent = `El ganador es: ${ganador}`;
     result.appendChild(mensaje);
 }
+
+window.onload = function() {
+    alert("AMIGO SECRETO dice: ¡Bienvenido a la aplicación!");
+};
